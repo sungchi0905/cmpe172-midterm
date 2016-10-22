@@ -14,7 +14,7 @@
     "lodash": "^4.16.4",
 	"superagent":"^2.3.0",
 	"colors":"^1.1.2",
-	"csv":"^1.1.0", 
+	"fast-csv":"^2.3.0", 
 	"underscore":"^1.8.3"
   }
 }
